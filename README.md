@@ -1,4 +1,8 @@
 
+#Nueva práctica del curso 2023
+Núria Domínguez Domínguez
+
+
 #Nueva práctica del curso 2023 
 David Alonso Domínguez
 
