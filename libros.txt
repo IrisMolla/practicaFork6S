@@ -7,6 +7,11 @@ libro1
 libro2
 libro3
 
+
+La odisea
+Misery
+La torre oscura
+
 Patrones de diseño
 El programador pragmático
 Código sostenible
