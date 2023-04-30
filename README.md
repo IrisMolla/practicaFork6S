@@ -4,6 +4,9 @@ Núria Domínguez Domínguez
 
 
 #Nueva práctica del curso 2023 
+
+Bárbara Martínez Rizo
+
 David Alonso Domínguez
 
 
