@@ -1,3 +1,8 @@
+
+Head first java libro1
+head first sql libro2
+clean code libro3
+
 libro1
 libro2
 libro3
@@ -5,3 +10,14 @@ libro3
 Patrones de diseño
 El programador pragmático
 Código sostenible
+
+Dune 
+El señor de los anillos
+Lobo estepario
+
+El señor de las moscas
+El guardián entre el centeno
+Rebelión en la granja
+
+
+
