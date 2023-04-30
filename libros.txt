@@ -6,7 +6,13 @@ clean code libro3
 libro1
 libro2
 libro3
+
+Dune 
+El señor de los anillos
+Lobo estepario
+
 El señor de las moscas
 El guardián entre el centeno
 Rebelión en la granja
+
 
