@@ -3,3 +3,6 @@ disco2
 disco3
 disco4
 disco5
+Joaquin Sabina
+Melendi
+Pablo Alborán
