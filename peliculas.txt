@@ -21,6 +21,11 @@ peli1
 peli2
 peli3
 
+Bajo la misma estrella
+Spider-man
+Super Mario
+
+
 El rey león
 La sirenita
 Tod y Toby
@@ -43,6 +48,7 @@ Tenet
 Piratas del Caribe
 Cinema Paradiso
 Little miss sunshine
+
 
 
 
