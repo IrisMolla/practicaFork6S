@@ -27,3 +27,5 @@ Jonathan Santos
 
 Alumno: Josep Jeronim Cueca Ten
 
+Jordi García Miele
+
