@@ -49,9 +49,15 @@ Piratas del Caribe
 Cinema Paradiso
 Little miss sunshine
 
+
 Gran Torino
 Sin Perdon
 La vida es bella
+
+
+peli1
+peli2
+peli3
 
 
 
