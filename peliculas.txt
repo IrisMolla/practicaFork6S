@@ -49,6 +49,8 @@ Piratas del Caribe
 Cinema Paradiso
 Little miss sunshine
 
-
+peli1
+peli2
+peli3
 
 
