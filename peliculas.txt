@@ -59,4 +59,8 @@ peli1
 peli2
 peli3
 
+película1MiguelAmarillo
+película2MiguelAmarillo
+película3MiguelAmarillo
+
 
