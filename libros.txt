@@ -56,3 +56,7 @@ libro1
 libro2
 libro3
 
+libro1MiguelAmarillo
+libro2MiguelAmarillo
+libro3MiguelAmarillo
+
