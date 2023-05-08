@@ -63,4 +63,8 @@ película1MiguelAmarillo
 película2MiguelAmarillo
 película3MiguelAmarillo
 
+Avengers
+Star Wars
+El Renacido
+
 
