@@ -21,6 +21,14 @@ libro1
 libro2
 libro3
 
+ 
+Don Quijote de la Mancha Vol.1 (ebofer)
+
+La Colmena (ebofer)
+
+El Tartufo  (ebofer)
+
+
 La vuelta al mundo en 80 dias
 El principito
 Bajo la misma estrella
@@ -65,4 +73,5 @@ libro3MiguelAmarillo
 El Principito
 100 años De Soledad
 El Quijote
+
 
