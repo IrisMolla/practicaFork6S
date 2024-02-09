@@ -2,3 +2,4 @@
 #Nueva práctica del curso 2023-2024
 
 Samuel Frias Nieto
+Gabriel Reig Valiente
