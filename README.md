@@ -7,4 +7,6 @@ Nacho Palau Domínguez
 Pablo Perez 
 Samuel Frias Nieto
 
+Gabriel Reig Valiente
+
 
