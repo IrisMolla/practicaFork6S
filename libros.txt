@@ -1,4 +1,4 @@
-
+c
 Lazarillo
 Histories de por
 Marta
@@ -21,3 +21,8 @@ Pequeño, grande o el parlamento de las hadas
 "El Imperior Final" 
 "El Pozo de la Ascension" 
 "El Heroe de las Eras" 
+
+
+El método		  (Neill Strauss)
+Cartas desde la tierra	  (Mark Twain)
+La cara oculta de la Otan (Ben Lowe)
