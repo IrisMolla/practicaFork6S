@@ -12,3 +12,5 @@ Samuel Frias Nieto
 Gabriel Reig Valiente
 
 Vicent Garcia 
+
+Maria Jose Verdeguer
